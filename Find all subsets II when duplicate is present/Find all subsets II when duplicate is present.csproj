@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Find_all_subsets_II_when_duplicate_is_present</RootNamespace>
+  </PropertyGroup>
+
+</Project>
